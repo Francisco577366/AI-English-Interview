@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.git
+.env
+*.local
+dist
+_test*.mjs
+_probe*.mjs
+_reliab.mjs
+_now.mjs
+_run.mjs
+_shot*.mjs
